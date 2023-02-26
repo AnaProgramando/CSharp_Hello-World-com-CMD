@@ -1,0 +1,14 @@
+using System;
+
+class Program
+{
+	static void Main(string[] args)
+	{
+		Console.WriteLine("Executando o Projeto 1 - Hello World:");
+		
+		Console.WriteLine("Olá mundo! Hello world!");
+		Console.WriteLine("A execução foi encerrada.");
+		Console.WriteLine("Tecle Enter para finalizar...");
+		Console.ReadLine();
+	}
+}
