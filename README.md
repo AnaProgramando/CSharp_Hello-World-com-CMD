@@ -5,6 +5,11 @@
 
 <p align="center">
  <a href="#-welcome">Welcome</a> | 
+ <a href="#-csharp---hello-word-com-cmd	">Hello Word com CMD</a> | 	
+ <a href="#-criando-o-arquivo">Criando o arquivo</a> | 	
+ <a href="#-acessando-o-compilador-c">Acessando o compilador C#</a> | 	
+ <a href="#-compilando-o-c%C3%B3digo">Compilando o código</a> | 
+ <a href="#-execu%C3%A7%C3%A3o">Execução</a> | 	
  <a href="#-d%C3%BAvidas">Dúvidas</a> | 
  <a href="#%EF%B8%8F-contatos">Contatos</a> | 
  <a href="#%EF%B8%8F-autora">Autora</a>
