@@ -1,4 +1,10 @@
-﻿![banner CSharp Hello Word com CMD](https://github.com/AnaProgramando/-CSharp_Hello-Word-com-CMD/blob/5e6c074a466b3202804b63c64dd4a8818dc8620b/banner_CSharp_Hello-Word-com-CMD.png)
+<div align="right">
+
+#### Project in English: <kbd>[<img title="English" alt="English" src="https://img.icons8.com/color/48/000000/usa.png" width="22">](https://github.com/AnaProgramando/CSharp_Hello-Word-com-CMD/blob/9c3f3212385d5153254bfa2f59700dc22a35f7e8/README-us.md)</kbd>
+
+</div>
+
+![banner CSharp Hello Word com CMD](https://github.com/AnaProgramando/-CSharp_Hello-Word-com-CMD/blob/5e6c074a466b3202804b63c64dd4a8818dc8620b/banner_CSharp_Hello-Word-com-CMD.png)
 ----
 
 <img src="https://img.shields.io/static/v1?label=Status&message=complete&color=32CD32&style=for-the-badge"/>
