@@ -1,17 +1,17 @@
 <div align="right">
 
-#### Project in English: <kbd>[<img title="English" alt="English" src="https://img.icons8.com/color/48/000000/usa.png" width="22">](https://github.com/AnaProgramando/CSharp_Hello-Word-com-CMD/blob/9c3f3212385d5153254bfa2f59700dc22a35f7e8/README-us.md)</kbd>
+#### Project in English: <kbd>[<img title="English" alt="English" src="https://img.icons8.com/color/48/000000/usa.png" width="22">](https://github.com/AnaProgramando/CSharp_Hello-World-com-CMD/blob/9c3f3212385d5153254bfa2f59700dc22a35f7e8/README-us.md)</kbd>
 
 </div>
 
-![banner CSharp Hello Word com CMD](https://github.com/AnaProgramando/-CSharp_Hello-Word-com-CMD/blob/5e6c074a466b3202804b63c64dd4a8818dc8620b/banner_CSharp_Hello-Word-com-CMD.png)
+![banner CSharp_Hello-World-com-CMD](https://github.com/AnaProgramando/CSharp_Hello-World-com-CMD/blob/3d978f60bec8a2ab4c1d73bffdc3ba2c5310f7cf/CSharp%20-%20Hello%20World%20com%20CMD.png)
 ----
 
 <img src="https://img.shields.io/static/v1?label=Status&message=complete&color=32CD32&style=for-the-badge"/>
 
 <p align="center">
  <a href="#-welcome">Welcome</a> | 
- <a href="#-csharp---hello-word-com-cmd	">Hello Word com CMD</a> | 	
+ <a href="#-csharp---hello-world-com-cmd">Hello World com CMD</a> | 	
  <a href="#-criando-o-arquivo">Criando o arquivo</a> | 	
  <a href="#-acessando-o-compilador-c">Acessando o compilador C#</a> | 	
  <a href="#-compilando-o-c%C3%B3digo">Compilando o código</a> | 
@@ -29,7 +29,7 @@ Tive a ideia de começar o desafio de #100DaysOfCode, além de compartilhar algu
 
 <br>
 
-## <img align="center" alt="Ana-Csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> CSharp - Hello Word com CMD
+## <img align="center" alt="Ana-Csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> CSharp - Hello World com CMD
 
 📚 Aproveite o código desse exercício: Como compilar um código com o Prompt? / Como compilar um código com o cmd?
 
