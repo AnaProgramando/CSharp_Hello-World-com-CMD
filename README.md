@@ -1,9 +1,3 @@
-<div align="right">
-
-#### Project in English: <kbd>[<img title="English" alt="English" src="https://img.icons8.com/color/48/000000/usa.png" width="22">](https://github.com/AnaProgramando/CSharp_Hello-World-com-CMD/blob/9c3f3212385d5153254bfa2f59700dc22a35f7e8/README-us.md)</kbd>
-
-</div>
-
 ![banner CSharp_Hello-World-com-CMD](https://github.com/AnaProgramando/CSharp_Hello-World-com-CMD/blob/3d978f60bec8a2ab4c1d73bffdc3ba2c5310f7cf/CSharp%20-%20Hello%20World%20com%20CMD.png)
 ----
 
